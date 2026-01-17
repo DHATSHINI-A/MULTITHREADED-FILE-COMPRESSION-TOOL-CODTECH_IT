@@ -28,3 +28,8 @@ Once compression is complete, the compressed outputs from both threads are merge
 To enhance usability, the program includes a file display function that outputs the contents of both the compressed and decompressed files to the console. This allows users to visually verify the correctness of the compression and decompression processes.
 
 Overall, this project demonstrates key C++ concepts such as file handling, multithreading, string manipulation, performance measurement, and lossless data compression. It provides practical exposure to parallel programming and efficient data processing techniques, making it a strong example of real-world system-level programming in C++.
+
+
+# OUTPUT
+
+<img width="553" height="277" alt="Image" src="https://github.com/user-attachments/assets/381cb083-81ec-49f1-ac09-51bc22846b71" />
